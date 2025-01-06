@@ -135,7 +135,7 @@ MonoBehaviour:
   moveSpeed: 8
   paddingLeft: 0.5
   paddingRight: 0.5
-  paddingTop: 5
+  paddingTop: 8
   paddingBottom: 2
 --- !u!50 &-3416398414074307564
 Rigidbody2D:
@@ -212,7 +212,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isPlayer: 1
-  health: 50
+  health: 100
   scoreValue: 0
   hitEffect: {fileID: 8058710307549761561, guid: d09d85801ac902f47b8e6847c66deee8, type: 3}
   applyCameraShake: 1

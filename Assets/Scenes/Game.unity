@@ -244,6 +244,9 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: 4aed5ef1d821d5a4c89f3c5a3163e7ee, type: 2}
   - {fileID: 11400000, guid: 2eea670a8bada954ab1f63a61dbea973, type: 2}
+  - {fileID: 11400000, guid: 67bd600f87f49524daa2e97538f1b576, type: 2}
+  - {fileID: 11400000, guid: 3f042cad637328a47850cf6ca70de80d, type: 2}
+  - {fileID: 11400000, guid: eb656b2589106ec45bd308b22ec255a2, type: 2}
   timeBetweenWaves: 0
   waveTimeVariance: 1
   minimumWaveTime: 0

@@ -46,9 +46,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shootingClip: {fileID: 8300000, guid: 561cdacca06ca6a4983e9a551df96a7d, type: 3}
-  shootingVolume: 0.2
+  shootingVolume: 0.05
   damageClip: {fileID: 8300000, guid: 921cf3f4bb227a6498429f1c3b9cce46, type: 3}
-  damageVolume: 0.2
+  damageVolume: 0.06
 --- !u!82 &8788210559134728063
 AudioSource:
   m_ObjectHideFlags: 0
@@ -61,7 +61,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: f39f1d9665c453946a12d83b6ef83e43, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.2
+  m_Volume: 0.05
   m_Pitch: 1
   Loop: 1
   Mute: 0
